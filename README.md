@@ -13,4 +13,4 @@ Find my [Github Repo Here](https://github.com/wkropat/code_refactor)
 and a live website [here](https://wkropat.github.io/code_refactor/)
 
 A screenshot of the website is below:
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./img.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/screenshot.png)
